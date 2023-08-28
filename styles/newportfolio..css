@@ -8,10 +8,12 @@ header {
     background: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    justify-content: space-between;
 }
 
 .header-content {
-    padding: 100px 0px;
+    padding: 216px 230px 166px 0px;
     text-align: end;
     max-width: 585px;
 }
